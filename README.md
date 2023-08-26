@@ -4,8 +4,8 @@
 
 - 🏫 I’m studying for the master of computer science and technology of BUPT
 - 💻 My research direction is computer network
-- 👀 I’m interested in clould native, especially Observability
-- 🌱 I’m currently learning Golang and Kubernetes
+- 👀 Interested in clould native, especially Observability
+- 🌱 An open source enthusiast
 - ✍ Sometimes I write [blog](https://alrisha.cn/) to record my daiy study
 
 ## ⚡ Github Stats
