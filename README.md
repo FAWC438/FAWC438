@@ -8,6 +8,11 @@
 - 🌱 An open source enthusiast
 - ✍ Sometimes I write [blog](https://alrisha.cn/) to record my daiy study
 
+## 🥇 Open Source Contributions
+
+- GSOC 2023: [Apache SkyWalking - Python Agent Performance Enhancement Plan](https://summerofcode.withgoogle.com/programs/2023/projects/M7qsJ2mB)
+- Other small issues and PRs...
+
 ## ⚡ Github Stats
 
 [![FAWC438's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAWC438&hide=issues&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
