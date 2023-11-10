@@ -11,6 +11,7 @@
 ## 🥇 Open Source Contributions
 
 - GSOC 2023: [Apache SkyWalking - Python Agent Performance Enhancement Plan](https://summerofcode.withgoogle.com/programs/2023/projects/M7qsJ2mB)
+- OSPP 2023: [Nacos - Client-side observability enhancement](https://summer-ospp.ac.cn/org/prodetail/23ab10353?lang=zh&list=pro)
 - Other small issues and PRs...
 
 ## ⚡ Github Stats
