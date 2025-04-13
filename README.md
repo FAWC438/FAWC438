@@ -3,7 +3,7 @@
 ## 🎉 About Me
 
 - 🏫 I am studying for the master of computer science and technology of BUPT
-- 💼 Currently interning at Alibaba Cloud, working with Tongyi LLM team
+- 💼 Previous internship experience at Alibaba Cloud
 - 📖 My research direction is computer network
 - 👀 Interested in clould native, especially Observability
 - 🌱 An open source enthusiast
